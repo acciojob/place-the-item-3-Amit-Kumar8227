@@ -3,4 +3,5 @@
 .holder{
 	display: flex;
 	flex-direction: column;
+	justify-contenet: space-evenly;
 }
